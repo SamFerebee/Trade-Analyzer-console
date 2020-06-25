@@ -1,5 +1,5 @@
 # Trade-Analyzer-console
-Fantasy Football Trade Analyzer
+Fantasy Football Trade Analyzer console version
 
 This is the first original (somewhat) substantial application I wrote since starting to learn programming in March 2020. I first wrote this in May 2020.
 
